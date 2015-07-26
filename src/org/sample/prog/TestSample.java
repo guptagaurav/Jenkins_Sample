@@ -1,6 +1,6 @@
 package org.sample.prog;
 
-public class MyFirstTest {
+public class TestSample {
 	
 	public String concatenateStrings(String a, String b){
 		
