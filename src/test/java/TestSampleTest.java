@@ -12,7 +12,7 @@ public class TestSampleTest {
 		TestSample test1 = new TestSample();
 		String result = test1.concatenateStrings("Hello", "World!");
 		
-		assertEquals("Hello dssWorld!", result);
+		assertEquals("Hello World!", result);
 	}
 
 }
